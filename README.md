@@ -47,26 +47,6 @@ Candidates are tasked with creating a Steam featured games list application with
 5. **Like Button**
    - Add a like button to each item on the list
 
-6. **React Hooks**
-   - Use `useState` for managing game data and UI state
-   - Use `useEffect` for data fetching and the changing title
-   - Create a custom hook for managing the games data
-
-7. **Performance Optimization**
-   - Implement `React.memo` to prevent unnecessary re-renders
-   - Use `useCallback` for event handlers
-   - Implement `useRef` for the interval in the changing title
-
-8. **CSS Styling**
-   - Style the application using CSS modules or CSS-in-JS
-   - Make the design responsive
-   - Implement a dark/light mode toggle
-
-9. **Code Structure**
-   - Organize components in a logical folder structure
-   - Use TypeScript interfaces for props and state
-   - Implement proper error handling and loading states
-
 ## Bonus Points
 
 - Implement virtualization for the game list to handle large datasets efficiently
